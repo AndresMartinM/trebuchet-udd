@@ -44,15 +44,23 @@ El desarrollo de este proyecto está inspirado en el trabajo de [Tom Stalton](ht
 
 |ID| Material | Detalle | Cantidad |
 |:---|:---|---:|---:|
-|**mdf_inf**| MDF 3mm | [inferior-DXF]() | 8 |
-|**mdf_sup**| MDF 3mm | [superior-DXF]() | 4 |
-|**mdf_bra**| MDF 3mm | [brazo-DXF]() | 4 |
-|**mdf_con**| MDF 3mm | [contra-DXF]() | 4 |
+|**mdf_inf**| MDF 3mm | [unionInferior-DXF](/archivos/CORREGIDOunionInferiorBaseCatapulta-MDF3mm-16xCatapulta-48Total.dxf) | 8 |
+|**mdf_sup**| MDF 3mm | [unionSuperior-DXF](/archivos/CORREGIDOunionSuperiorBaseCatapulta-MDF3mm-8xCatapulta-24Total.dxf) | 4 |
+|**mdf_bra**| MDF 3mm | [unionBrazo-DXF](/archivos/unionBrazoContrapeso-MDF3mm-4xCatapulta-12Total.dxf) | 4 |
+|**mdf_con**| MDF 3mm | [contrapeso-DXF](/archivos/contrapesoCatapulta-MDF3mm-4xCatapulta-12Total.dxf) | 4 |
+|**parche**| Cuerina | [parcheBrazo-DXF](/archivos/parcheCatapultaV2-1xCatapulta.dxf) | 4 |
+|**pla_eje**| Pieza impresa PLA | [separadorEje-STL](/archivos/separadorEjeCentral-2xCatapulta-6Total.stl) | 2 |
+|**pla_uni**| Pieza impresa PLA | [separadorUnion-STL](/archivos/separadorEjeContrapeso-1xCatapulta-3Total.stl) | 1 |
+|**pla_con**| Pieza impresa PLA | [separadorContra-STL](/archivos/separadorMdfContrapeso-1xCatapulta-3Total.stl) | 1 |
+|**pla_cab**| Pieza impresa PLA | [cabezalLanzador-STL](/archivos/cabezalLanzador-1xCatapulta-3Total.stl) | 1 |
 
-### Archivos
+----
 
 ### Fabricación y ensamble
 
+
+
+---
 ![trebuchet](https://web.archive.org/web/20090728004740/http://us.geocities.com/krashous/imagenes/Animaciones/trebuchet2.gif)
 
 
