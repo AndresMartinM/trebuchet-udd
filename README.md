@@ -18,6 +18,8 @@ El desarrollo de este proyecto está inspirado en el trabajo de [Tom Stalton](ht
 
 ### Materiales
 
+#### Simples
+
 |ID| Material | Detalle | Cantidad |
 |:---|:---|---:|---:|
 |**palo_60**| Pino 3x2" cepillado | 60cms| 4 |
@@ -26,6 +28,7 @@ El desarrollo de este proyecto está inspirado en el trabajo de [Tom Stalton](ht
 |**palo_54**| Pino 2x1" cepillado | 54cms| 1 |
 |**palo_12**| Pino 2x1" cepillado | 12cms| 1 |
 |**palo_30**| Pino 2x1" cepillado | 30cms| 2 |
+|**torn_3**| Tornillo cincado cruz | 3"| 8 |
 |**eje_40**| Barra acero 10mm | ~40cms | 1 |
 |**sk_10**| Soporte aluminio | SK10 | 2 |
 |**hilo_12**| Hilo 5/16 | 12cms | 3 |
@@ -36,6 +39,15 @@ El desarrollo de este proyecto está inspirado en el trabajo de [Tom Stalton](ht
 |**per_m10**| Perno Parker | M10 | 24 |
 |**tuer_m10**| Tuerca hexagonal | M10 | 24 |
 |**gol_m10**| Golilla plana | M10 | 48 |
+
+#### Fabricados
+
+|ID| Material | Detalle | Cantidad |
+|:---|:---|---:|---:|
+|**mdf_inf**| MDF 3mm | [inferior-DXF]() | 8 |
+|**mdf_sup**| MDF 3mm | [superior-DXF]() | 4 |
+|**mdf_bra**| MDF 3mm | [brazo-DXF]() | 4 |
+|**mdf_con**| MDF 3mm | [contra-DXF]() | 4 |
 
 ### Archivos
 
