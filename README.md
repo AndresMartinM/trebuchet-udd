@@ -12,9 +12,16 @@ El desarrollo de este proyecto está inspirado en el trabajo de [Tom Stalton](ht
 
 ### Herramientas
 - Sierra ingletadora, serrucho, o similar
+- Cortadora láser (en taller)
+- Impresora 3d FDM (en taller)
+- Taladro (en taller)
+- Broca madera o metal 8.5mm
+- Broca madera o metal 10mm
 - Llave Allen 6mm
 - Llave Allen 8mm
-- 
+- Llave Allen TODO para el sk10
+- Llave punta/corona TODO
+
 
 ### Materiales
 
@@ -58,7 +65,19 @@ El desarrollo de este proyecto está inspirado en el trabajo de [Tom Stalton](ht
 
 ### Fabricación y ensamble
 
+TODO fabricación digital
 
+TODO cortes y perforaciones
+
+TODO como poner un perno
+
+TODO armado brazo y contrapeso
+
+TODO armado base
+
+TODO armado final
+
+### Uso de la catapulta
 
 ---
 ![trebuchet](https://web.archive.org/web/20090728004740/http://us.geocities.com/krashous/imagenes/Animaciones/trebuchet2.gif)
