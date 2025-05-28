@@ -61,6 +61,11 @@ El desarrollo de este proyecto está inspirado en el trabajo de [Tom Stalton](ht
 |**pla_con**| Pieza impresa PLA | [separadorContra-STL](/archivos/separadorMdfContrapeso-1xCatapulta-3Total.stl) | 1 |
 |**pla_cab**| Pieza impresa PLA | [cabezalLanzador-STL](/archivos/cabezalLanzador-1xCatapulta-3Total.stl) | 1 |
 
+
+![dxf](/archivos/parcheCatapultaV2-1xCatapulta.dxf)
+
+![svg](/archivos/cabezalLanzador-1xCatapulta-3Total.stl)
+
 ----
 
 ### Fabricación y ensamble
