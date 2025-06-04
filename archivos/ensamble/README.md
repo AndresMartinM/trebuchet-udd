@@ -9,8 +9,9 @@ pantallazo de la catapulta en Autodesk Fusion 360:
 ![trebuchet en fusion 360](./img/ensamble.png)
 
 archivos exportados desde:
-*Fusion 2601.1.37 x86_64
-Plano activo: Estudiante
+
+*Fusion 2601.1.37 x86_64 <br>
+Plano activo: Estudiante <br>
 Windows 11 Pro 24H2 (26100.4061)*
 
 >documentado por [AndresMartinM](https://github.com/AndresMartinM) 2025
